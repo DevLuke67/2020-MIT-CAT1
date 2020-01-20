@@ -1,0 +1,143 @@
+.logo{
+    margin-left: 20%;
+}
+button{
+    height: 40px;
+    width: 90px;
+    background-color: #efd83f;
+    border: #efd83f;
+}
+.div2{
+    background-color: #efd83f;
+    display: flex;
+}
+.div2_right{
+    margin-left: 10%;
+    padding-top: 10px;
+}
+.div2_left{
+    margin-left: 18%;
+    margin-right: 10%;
+}
+.search{
+    background-color: #c2ab3a;
+    border: #d7c03c;
+    height: 20px;
+    color: white;
+}
+.submit{
+    height: 23px;
+    background-color: #d7c03c;
+    border: #d7c03c;
+    width: 30px;
+}
+button:hover{
+    background-color: #ffe929;
+    border-bottom-style: ridge;
+}
+.heading{
+    font-family: "Arial";
+    font-size: 30px;
+}
+.intro{
+    font-family: "Arial Narrow";
+    text-align: left;
+    width: 60%;
+    margin-left: 20%;
+}
+.readmore{
+    margin-left: 73%;
+    background-color: #b91a0a;
+    color: white;
+    height: 25px;
+    background-color: #b91a0a;
+}
+.hr{
+    color: white;
+    border-top: 1px dotted gray;
+}
+h2{
+    color: #b9a13e;
+    font-family: "Calibri";
+    font-weight: normal;
+    margin-left: 20%;
+    font-size: xx-large;
+}
+.upper_div{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 30vh;
+}
+.lower_div{
+    display: flex;
+    margin-right: 20%;
+    margin-left: 20%;
+    height: 30vh;
+}
+.item1{
+    width: 30%;
+    height: 20vh;
+}
+.item2{
+    width: 30%;
+    height: 20vh;
+}
+.heading{
+    color: black;
+}
+.viewmore{
+    margin-left: 73%;
+    color: white;
+    height: 30px;
+    background-color: #b91a0a;
+    margin-bottom: 10px;
+}
+.footer {
+    display: flex;
+    background-color: #d7c03c;
+    justify-content: center;
+    padding-top: 20px;
+}
+.a{
+    color: #d7c03c;
+    font-family: "Arial Narrow";
+}
+p{
+    font-family: "Arial Narrow";
+    margin-left: 5px;
+}
+.final_div {
+    background-color: #d7c03c;
+    height: 12vh;
+    display: flex;
+    width: 60%;
+}
+ul{
+    list-style-type: none;
+    font-family: "Arial Narrow";
+}
+h3{
+    font-family: Arial;
+    margin-left: 40px;
+}
+.border{
+    height: 10px;
+    width: 100%;
+    background-color: #b9a13e;
+}
+.copyrights{
+    display: flex;
+    width: 60%;
+}
+.footer_div{
+    display: flex;
+    background-color: #aa9339;
+}
+.x{
+    background-color: #aa9339;
+    color: white;
+}
+.y{
+    width: 20%;
+}
